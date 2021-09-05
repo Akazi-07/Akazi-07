@@ -1,5 +1,5 @@
 - 👋 Hi I'm @Akazi-07, Ex-OOBite, on a gap year exploring the world of coding before I join college. I'm also a AI and Design Thinking Lecturer (Intern) at my Alma Mater
-- 👀 I’m interested in Python programming, AI and Machine Learning, Data Science, and literally anything and everything that the computers and coding offers.
+- 👀 I’m interested in Python programming, AI and Machine Learning, Data Science, and literally anything that the plethora of coding offers.
 - 🌱 I’m currently learning Web Development and UI/UX Designing 
 - 💞️ I’m looking to collaborate on Python based Data Science, AI and Machine Learning projects.
 
